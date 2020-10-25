@@ -3,14 +3,14 @@ package Monopoly;
 public class Players {
 
     private String navn;
-    private Monopoly.Dice6 d1;
-    private Monopoly.Dice6 d2;
+    private Dice6 d1;
+    private Dice6 d2;
 
     Players(String navn)
     {
         this.navn = navn;
-        d1 = new Monopoly.Dice6();
-        d2 = new Monopoly.Dice6();
+        d1 = new Dice6();
+        d2 = new Dice6();
     }
 
 
