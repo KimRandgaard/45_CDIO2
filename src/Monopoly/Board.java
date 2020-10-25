@@ -14,6 +14,7 @@ public class Board {
         BoardFields = new ArrayList<Fields>();
 
         BoardFields.add(new Fields("START",300));
+        BoardFields.add(new Fields("Tower",250));
 
 
     }
