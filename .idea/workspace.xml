@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="ce054d22-d284-4c7f-9767-5489e49ccf61" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="be612483-9687-4fb2-a354-7416a617059a" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+<<<<<<< Updated upstream
+  <component name="ProjectId" id="1jPhkYEdjcv0V9Lz7j5amKtmglQ" />
+=======
+  <component name="ProjectId" id="1jPhSS8iPBeDaopBd8GoFB3xWGf" />
+>>>>>>> Stashed changes
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
+      <changelist id="ce054d22-d284-4c7f-9767-5489e49ccf61" name="Default Changelist" comment="" />
+      <created>1603711779462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603711779462</updated>
+      <workItem from="1603711781313" duration="163000" />
+=======
+      <changelist id="be612483-9687-4fb2-a354-7416a617059a" name="Default Changelist" comment="" />
+      <created>1603711636031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603711636031</updated>
+      <workItem from="1603711637231" duration="18000" />
+>>>>>>> Stashed changes
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
